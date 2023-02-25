@@ -15,6 +15,11 @@
 Handy C++11 utilities like a [maybe](https://wiki.haskell.org/Maybe) class, errors inspired by
 the [Golang error system](https://gobyexample.com/errors), string utilities, format and more.
 
+Clone with
+```sh
+$ git clone --recurse-submodules https://github.com/lordoftrident/cxxini
+```
+
 ## Table of contents
 * [Documentation](#documentation)
 * [Examples](#examples)
