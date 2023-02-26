@@ -17,7 +17,7 @@ the [Golang error system](https://gobyexample.com/errors), string utilities, for
 
 Clone with
 ```sh
-$ git clone --recurse-submodules https://github.com/lordoftrident/cxxini
+$ git clone --recurse-submodules https://github.com/lordoftrident/utixx
 ```
 
 ## Table of contents
@@ -46,7 +46,7 @@ The binaries will be outputted into [bin](./bin).
 ## Quickstart
 Either copy this repository into your project, or you can use git submodules:
 ```sh
-$ git submodule add https://github.com/LordOfTrident/cxxini
+$ git submodule add https://github.com/LordOfTrident/utixx
 ```
 
 ## Bugs
